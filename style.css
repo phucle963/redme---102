@@ -1,0 +1,93 @@
+body{
+   margin: 0px;
+   padding: 0px;
+}
+a{
+    text-decoration: none;
+    
+}
+ul li{
+    list-style: none;
+}
+nav {
+    
+    padding: 30px 5px;
+    float: right;
+    width: 60%;
+}
+nav a {
+
+    padding: 5px 5px;
+       
+}
+h1 {
+    width: 50%;
+}
+header img {
+    width: 110px;
+}
+section.logo {
+    display: inline-flex;
+}
+main section.cake-new img{
+    width: 85%;
+    border-radius: 15px 15px;
+    transition: all 0.3s;
+    border: 1px solid #3333;
+    padding: 3px 3px;
+}
+section.cake-new ul li {
+    display: inline-block;
+    width: 33%;
+}
+section.cake-new ul li p {
+    font-size: 15px;
+    font-style: italic;
+}
+section.content-hot article{
+    display: inline-block;
+    padding: 35px 80px;
+    border: 1px dashed #de642e33;
+}
+section.content-hot {
+    text-align: center;
+}
+header nav a {
+    font-size: 17px;
+    color: #ec901e;
+    font-family: ui-monospace;
+}
+header nav a:hover {
+    color:#f1c68d;
+}
+footer {
+    text-align: center;
+    background: #d5a97e;
+}
+header {
+    background: #f0f1e2e3;
+}
+section.content-hot article ul li {
+    padding: 7px 0px;
+}
+
+section.content-hot article ul li a {
+    color: brown;
+    margin-right: 35px;
+}
+
+section.content-hot article ul li a:hover {
+    color: chocolate;
+}
+section.cake-new h3.title {
+    text-align: center;
+    color: #825035d9;
+    font-family: cursive;
+}
+section.cake-new {
+    border-top: 1px dashed #a7956c78;
+}
+section.banner p {
+    text-align: center;
+    font-size: 13px;
+}
