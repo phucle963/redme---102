@@ -91,3 +91,6 @@ section.banner p {
     text-align: center;
     font-size: 13px;
 }
+main section.cake-new img:hover {
+   transform: rotate(-6deg) scale(1.3);
+}
