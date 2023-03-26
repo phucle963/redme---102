@@ -94,3 +94,7 @@ section.banner p {
 main section.cake-new img:hover {
    transform: rotate(-6deg) scale(1.3);
 }
+.star{
+    width: 20px;
+    
+}
