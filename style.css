@@ -98,3 +98,6 @@ main section.cake-new img:hover {
     width: 20px;
     
 }
+section.banner {
+    text-align: center;
+}
